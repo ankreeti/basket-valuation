@@ -1,0 +1,6 @@
+Banana,1.99
+Orange,3.08
+Apple,2.97
+Lemons,0.69
+Peaches,1.65
+Mangoes,2.98
